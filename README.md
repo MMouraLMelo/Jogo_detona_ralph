@@ -6,7 +6,6 @@
 
 <p>Projeto com intuito educacional</p>
 
-<a href="">
 
 <img src="Captura de Tela (57).png">
  
